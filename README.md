@@ -14,7 +14,7 @@ You can can apply **Solarized color scheme** on Facebook as a Google Chrome Exte
 
 * Now, Enable developer mode.
 
-* Click on Load Unpacked and select the folder you previously extracted.
+* Click on `Load Unpacked` and select the folder you previously extracted.
 
 * Goto [Facebook](https://www.facebook.com/) & Bob's your uncle.
 
