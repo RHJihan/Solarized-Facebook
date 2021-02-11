@@ -1,9 +1,9 @@
 {
   "manifest_version": 2,
-  "name": "Solarized Messenger",
+  "name": "Solarized Facebook",
   "version": "1.0",
-  "description": "Solarized theme for Facebook Messenger.",
-  "homepage_url": "https://github.com/RHJihan/Solarized-Messenger",
+  "description": "Solarized color scheme for Facebook Facebook.",
+  "homepage_url": "https://github.com/RHJihan/Solarized-Facebook",
   "icons": {
     "16": "icons/icon16.png",
     "48": "icons/icon48.png",
