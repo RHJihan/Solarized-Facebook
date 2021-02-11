@@ -6,7 +6,7 @@ You can can apply **Solarized color scheme** on Facebook as a Google Chrome Exte
 
 # How to install
 
-* First download all files from [GitHub](https://github.com/RHJihan/Solarized-Facebook). Click on **Code** and there will be an option to **Download ZIP**. Or click on [this link](https://github.com/RHJihan/Solarized-Facebook/archive/master.zip) to direct downland.
+* First download all files from [GitHub](https://github.com/RHJihan/Solarized-Facebook). Click on **Code** and there will be an option to **Download ZIP**. Or click on [this link](https://github.com/RHJihan/Solarized-Facebook/archive/master.zip) to direct download.
 
 * Extract the ZIP to your preferred location.
 
