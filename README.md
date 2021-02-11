@@ -2,7 +2,7 @@
 You can can apply **Solarized color scheme** on Facebook as a Google Chrome Extension.
 
 ## Preview
-![](https://i.imgur.com/2WHHG8r.jpg)
+![](https://i.imgur.com/qPmBknr.jpg)
 
 # How to install
 

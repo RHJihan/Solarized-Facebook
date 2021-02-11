@@ -23,7 +23,7 @@ i {
 :root:root {
   --card-background: #073642 !important;
   --divider: #657b83 !important;
-  --hosted-view-selected-state: rgba(0, 43, 54, 0.8) !important;
+  --hosted-view-selected-state: rgba(0, 43, 54, 0.9) !important;
   --hover-overlay: rgba(0, 43, 54, 0.3) !important;
   --media-inner-border: rgba(253, 246, 227, 0.04) !important;
   --media-outer-border: #002b36 !important;
@@ -40,10 +40,10 @@ i {
   --shadow-2: #073642 !important;
   --shadow-inset: #002b36 !important;
   --surface-background: #073642 !important;
-  --wash: #073642!important;
+  --wash: #094554 !important;
   --web-wash: #002b36 !important;
   --nav-bar-background: #073642 !important;
-  --comment-background: #002b36 !important;
+  --comment-background: #094554 !important;
   --fds-dark-mode-gray-100: #073642 !important;
   --always-dark-gradient: linear-gradient(rgba(0, 43, 54, 0), rgba(0, 43, 54, 0.6)) !important;
   --nav-bar-background-gradient: linear-gradient(to top, #FFFFFF, rgba(253, 246, 227), rgba(253, 246, 227, .7), rgba(253, 246, 227, .4), rgba(7, 54, 66, 0)) !important;
