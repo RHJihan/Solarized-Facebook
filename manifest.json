@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+  "name": "Solarized Messenger",
+  "version": "1.0",
+  "description": "Solarized theme for Facebook Messenger.",
+  "homepage_url": "https://github.com/RHJihan/Solarized-Messenger",
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://*.messenger.com/*", "https://*.facebook.com/*"],
+      "css": ["style.css"]
+    }
+  ]
+}
