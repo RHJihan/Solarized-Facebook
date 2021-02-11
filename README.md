@@ -20,6 +20,8 @@ You can can apply **Solarized color scheme** on Facebook as a Google Chrome Exte
 
 * Enjoy Solarized color scheme on Facebook.
 
+*Keep turned on default `Dark Mode` of Facebook for best results.*
+
 Known Issues
 ------------
 This extension doesn't effective on Facebook Settings & Help Center page.
