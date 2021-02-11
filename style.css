@@ -8,9 +8,9 @@ rect:not([fill]) {
   fill: #002b36 !important;
 }
 
-i {
+/* i {
   filter: invert(50%) !important;
-}
+} */
 
 .f6rbj1fe {
   display: none !important;
