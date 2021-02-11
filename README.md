@@ -22,4 +22,4 @@ You can can apply **Solarized color scheme** on Facebook as a Google Chrome Exte
 
 Known Issues
 ------------
-This extension doesn't work oin Facebook Settings & Help Center page.
+This extension doesn't effective on Facebook Settings & Help Center page.
