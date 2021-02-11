@@ -10,7 +10,7 @@ You can can apply **Solarized color scheme** on Facebook as a Google Chrome Exte
 
 * Extract the ZIP to your preferred location.
 
-* Open Chrome. Visit [chrome://extensions](chrome://extensions). Or goto Chrome Settings using three dots on the top right corner, then goto `Extensions`.
+* Open Chrome. Visit **chrome://extensions**. Or goto Chrome Settings using three dots on the top right corner, then goto `Extensions`.
 
 * Now, Enable developer mode.
 
