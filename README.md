@@ -25,3 +25,9 @@ You can can apply **Solarized color scheme** on Facebook as a Google Chrome Exte
 Known Issues
 ------------
 This extension doesn't effective on Facebook Settings & Help Center page.
+
+## FAQ
+* Is it safe?
+  >  **100%**. This extension totally depends on CSS only. So there is no privacy or safety threat.
+* Should I keep the extracted folder after installing the extension?
+  >  Yes, you should keep all files. Otherwise there might be problem with the extension.
