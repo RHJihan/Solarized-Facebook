@@ -20,7 +20,11 @@ rect:not([fill]) {
   min-height: calc(100vh - 124px) !important;
 }
 
-:root:root {
+:root:root, .__fb-light-mode, __fb-dark-mode:root, .__fb-dark-mode {
+  --comment-background: #094554 !important;
+  --card-background-flat: #002b36 !important;
+  --surface-background: #073642 !important;
+  --fds-black: #586e75 !important;
   --card-background: #073642 !important;
   --divider: #657b83 !important;
   --hosted-view-selected-state: rgba(0, 43, 54, 0.9) !important;
@@ -47,8 +51,8 @@ rect:not([fill]) {
   --fds-dark-mode-gray-100: #073642 !important;
   --always-dark-gradient: linear-gradient(rgba(0, 43, 54, 0), rgba(0, 43, 54, 0.6)) !important;
   --nav-bar-background-gradient: linear-gradient(to top, #FFFFFF, rgba(253, 246, 227), rgba(253, 246, 227, .7), rgba(253, 246, 227, .4), rgba(7, 54, 66, 0)) !important;
-  --nav-bar-background-gradient-wash: linear-gradient(to top, #F0F2F5, rgba(240, 242, 245.9), rgba(240, 242, 245, .7), rgba(240, 242, 245, .4), rgba(240, 242, 245, 0))  !important;
-  --nav-bar-background-gradient: linear-gradient(to top, #073642, rgba(7, 54, 66, .9), rgba(7, 54, 66, .7), rgba(7, 54, 66, .4), rgba(7, 54, 66, 0))  !important;
-  --nav-bar-background-gradient-wash: linear-gradient(to top, #002b36, rgba(0, 43, 54, .9), rgba(0, 43, 54, .7), rgba(0, 43, 54, .4), rgba(0, 43, 54, 0))  !important;
+  --nav-bar-background-gradient-wash: linear-gradient(to top, #F0F2F5, rgba(240, 242, 245.9), rgba(240, 242, 245, .7), rgba(240, 242, 245, .4), rgba(240, 242, 245, 0)) !important;
+  --nav-bar-background-gradient: linear-gradient(to top, #073642, rgba(7, 54, 66, .9), rgba(7, 54, 66, .7), rgba(7, 54, 66, .4), rgba(7, 54, 66, 0)) !important;
+  --nav-bar-background-gradient-wash: linear-gradient(to top, #002b36, rgba(0, 43, 54, .9), rgba(0, 43, 54, .7), rgba(0, 43, 54, .4), rgba(0, 43, 54, 0)) !important;
   --secondary-button-background-floating: #094554 !important;
 }
