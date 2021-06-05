@@ -1,5 +1,5 @@
 # Solarized Facebook
-You can can apply **Solarized color scheme** on Facebook by a Google Chrome Extension.
+You can apply **Solarized color scheme** on Facebook with this Extension.
 
 ## Preview
 ![](https://i.imgur.com/qPmBknr.jpg)
