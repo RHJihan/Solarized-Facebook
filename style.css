@@ -20,21 +20,30 @@ rect:not([fill]) {
   min-height: calc(100vh - 124px) !important;
 }
 
-.ms7hmo2b {                                                      /* react list */
+.ms7hmo2b {
+  /* react list */
   background-color: rgba(126, 161, 173, 0.98) !important;
 }
 
-.ms7hmo2b.kr520xx4.j9ispegn.poy2od1o.n7fi1qx3.i09qtzwb {      /* overlay */
+.ms7hmo2b.kr520xx4.j9ispegn.poy2od1o.n7fi1qx3.i09qtzwb {
+  /* overlay */
   background-color: rgb(0, 43, 54, 0.5) !important;
 }
 
-.ihqw7lf3.hddg9phg {                              /* notification */
+.ihqw7lf3.hddg9phg {
+  /* notification */
   background-color: #92b6c2 !important;
   border-radius: 15px !important;
 }
 
-.b73ngqbp.a8nywdso {                              /* notification close button */
+.b73ngqbp.a8nywdso {
+  /* notification close button */
   background-color: #6d8f9b !important;
+}
+
+.n851cfcs.aov4n071.t6na6p9t.l82x9zwi.uo3d90p7.pw54ja7n.ue3kfks5.g6srhlxm {
+  /* poll progress */
+  background-color: hsl(192, 81%, 22%) !important;
 }
 
 :root:root, .__fb-light-mode, __fb-dark-mode:root, .__fb-dark-mode {
