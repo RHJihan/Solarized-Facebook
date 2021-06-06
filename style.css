@@ -20,6 +20,10 @@ rect:not([fill]) {
   min-height: calc(100vh - 124px) !important;
 }
 
+.ms7hmo2b {
+  background-color: #fdf6e3 !important;
+}
+
 :root:root, .__fb-light-mode, __fb-dark-mode:root, .__fb-dark-mode {
   --comment-background: #094554 !important;
   --card-background-flat: #002b36 !important;
@@ -36,7 +40,7 @@ rect:not([fill]) {
   --overlay-alpha-80: rgba(0, 43, 54, 0.8) !important;
   --popover-background: #002b36 !important;
   --primary-deemphasized-button-background: #001e25 !important;
-  --primary-text: #fdf6e3 !important;
+  /* --primary-text: #fdf6e3 !important; */
   --scroll-thumb: #073642 !important;
   --secondary-button-background: #002b36 !important;
   --secondary-text: #eee8d5 !important;
