@@ -21,7 +21,11 @@ rect:not([fill]) {
 }
 
 .ms7hmo2b {
-  background-color: #fdf6e3 !important;
+  background-color: rgb(253, 246, 227, 0.9) !important;
+}
+
+.ms7hmo2b.kr520xx4.j9ispegn.poy2od1o.n7fi1qx3.i09qtzwb {
+  background-color: rgb(0, 43, 54, 0.5) !important;
 }
 
 :root:root, .__fb-light-mode, __fb-dark-mode:root, .__fb-dark-mode {
