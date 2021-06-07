@@ -24,7 +24,7 @@ You can apply **Solarized (dark) color scheme** on Facebook with this Extension.
 
 Known Issues
 ------------
-This extension is not properly effective on `Facebook Settings` & `Help Center` page.
+This extension is not properly effective on `Facebook Settings` & `Help Center` page. (These pages are not dark mode friendly by default from Facebook)
 
 ## FAQ
 * Is it safe?
