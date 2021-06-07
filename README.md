@@ -1,5 +1,5 @@
 # Solarized Facebook
-You can apply **Solarized color scheme** on Facebook with this Extension.
+You can apply **Solarized (dark) color scheme** on Facebook with this Extension.
 
 ## Preview
 ![](https://i.imgur.com/qPmBknr.jpg)
@@ -10,7 +10,7 @@ You can apply **Solarized color scheme** on Facebook with this Extension.
 
 * Extract the ZIP to your preferred location.
 
-* Open Chrome. Visit **chrome://extensions**. Or goto Chrome Settings using three dots on the top right corner, then goto `Extensions`.
+* Open Chrome. Visit **chrome://extensions**. Or goto Chrome Settings using three dots on the top right corner, then goto `Extensions`. (Goto **edge://extensions/** for Microsoft Edge)
 
 * Now, Enable `Developer mode`.
 
