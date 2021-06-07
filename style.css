@@ -22,7 +22,7 @@ rect:not([fill]) {
 
 .ms7hmo2b {
   /* react list */
-  background-color: rgba(126, 161, 173, 0.98) !important;
+  background-color: rgb(11, 83, 102, 0.95) !important;
 }
 
 .ms7hmo2b.kr520xx4.j9ispegn.poy2od1o.n7fi1qx3.i09qtzwb {
@@ -30,19 +30,16 @@ rect:not([fill]) {
   background-color: rgb(0, 43, 54, 0.5) !important;
 }
 
-.ihqw7lf3.hddg9phg {
-  /* notification */
-  background-color: #92b6c2 !important;
-  border-radius: 15px !important;
-}
-
-.b73ngqbp.a8nywdso {
-  /* notification close button */
-  background-color: #6d8f9b !important;
-}
-
 .n851cfcs.aov4n071.t6na6p9t.l82x9zwi.uo3d90p7.pw54ja7n.ue3kfks5.g6srhlxm {
   /* poll progress */
+  background-color: #0b5366 !important;
+}
+
+.oo9gr5id {
+  color: #fdf6e3 !important;
+}
+
+.q2y6ezfg {
   background-color: #0b5366 !important;
 }
 
@@ -54,7 +51,7 @@ rect:not([fill]) {
   --card-background: #073642 !important;
   --divider: #657b83 !important;
   --hosted-view-selected-state: rgba(0, 43, 54, 0.9) !important;
-  --hover-overlay: rgba(0, 43, 54, 0.3) !important;
+  --hover-overlay: rgba(85, 112, 122, 0.2) !important;
   --media-inner-border: rgba(253, 246, 227, 0.04) !important;
   --media-outer-border: #002b36 !important;
   --messenger-card-background: #002b36 !important;
@@ -64,7 +61,7 @@ rect:not([fill]) {
   --primary-deemphasized-button-background: #001e25 !important;
   /* --primary-text: #fdf6e3 !important; */
   --scroll-thumb: #073642 !important;
-  --secondary-button-background: #002b36 !important;
+  --secondary-button-background: #094554 !important;
   --secondary-text: #eee8d5 !important;
   /* --shadow-1: #073642  !important; */
   --shadow-2: #073642 !important;
