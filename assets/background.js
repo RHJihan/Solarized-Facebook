@@ -1,5 +1,5 @@
 chrome.runtime.onInstalled.addListener(function (object) {
-    chrome.tabs.create({ url: "../assets/help.html" }, function (tab) {
+    chrome.tabs.create({ url: "https://rhjihan.github.io/Solarized-Facebook/assets/help.html" }, function (tab) {
         console.log("New tab launched");
     });
 });
