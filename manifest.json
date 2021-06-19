@@ -12,7 +12,11 @@
   "content_scripts": [
     {
       "matches": ["https://*.messenger.com/*", "https://*.facebook.com/*"],
-      "css": ["style.css"]
+      "css": ["assets/style.css"]
     }
-  ]
+  ],
+  "background": {
+    "scripts": ["assets/background.js"],
+    "persistent": false
+}
 }

@@ -47,8 +47,14 @@ rect:not([fill]) {
   --card-background: #fdf6e3 !important;
 } */
 
+
+/* .tqsryivl {
+    background-color: #002b36 !important;
+} */
+
 :root:root, __fb-dark-mode:root, .__fb-dark-mode {
   --comment-background: #094554 !important;
+  --always-black: #001e25 !important;
   --card-background-flat: #002b36 !important;
   --surface-background: #073642 !important;
   --fds-black: #586e75 !important;
