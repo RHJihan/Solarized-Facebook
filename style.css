@@ -1,15 +1,15 @@
 /* Author: Md. Rifat Hasan Jihan <http://rhjihan.github.io/> */
 
-svg:not([fill]) {
-  fill: #fdf6e3 !important;
-}
+/* svg:not([fill]) {
+  fill: rgb(253, 246, 227) !important;
+} */
 
 rect:not([fill]) {
   fill: #002b36 !important;
 }
 
 /* i {
-  filter: invert(50%) !important;
+  filter: invert(80%) !important;
 } */
 
 .f6rbj1fe {
@@ -22,7 +22,7 @@ rect:not([fill]) {
 
 .ms7hmo2b {
   /* react list */
-  background-color: rgb(11, 83, 102, 0.95) !important;
+  background-color: rgb(253, 246, 227, 0.95) !important;
 }
 
 .ms7hmo2b.kr520xx4.j9ispegn.poy2od1o.n7fi1qx3.i09qtzwb {
@@ -31,19 +31,23 @@ rect:not([fill]) {
 }
 
 .n851cfcs.aov4n071.t6na6p9t.l82x9zwi.uo3d90p7.pw54ja7n.ue3kfks5.g6srhlxm {
-  /* poll progress */
+  /* poll progress  */
   background-color: #0b5366 !important;
 }
 
-.oo9gr5id {
+/* .oo9gr5id {
   color: #fdf6e3 !important;
-}
+} */
 
-.q2y6ezfg {
+/* .q2y6ezfg {
   background-color: #0b5366 !important;
-}
+} */
 
-:root:root, .__fb-light-mode, __fb-dark-mode:root, .__fb-dark-mode {
+/* :root, .__fb-light-mode {
+  --card-background: #fdf6e3 !important;
+} */
+
+:root:root, __fb-dark-mode:root, .__fb-dark-mode {
   --comment-background: #094554 !important;
   --card-background-flat: #002b36 !important;
   --surface-background: #073642 !important;
@@ -59,10 +63,10 @@ rect:not([fill]) {
   --overlay-alpha-80: rgba(0, 43, 54, 0.8) !important;
   --popover-background: #002b36 !important;
   --primary-deemphasized-button-background: #001e25 !important;
-  /* --primary-text: #fdf6e3 !important; */
+  /* --primary-text: #ffffff !important; */
   --scroll-thumb: #073642 !important;
   --secondary-button-background: #094554 !important;
-  --secondary-text: #eee8d5 !important;
+  /* --secondary-text: #eee8d5 !important; */
   /* --shadow-1: #073642  !important; */
   --shadow-2: #073642 !important;
   --shadow-inset: #002b36 !important;
