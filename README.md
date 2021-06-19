@@ -22,7 +22,7 @@ You can apply **Solarized (dark) color scheme** on Facebook with this Extension.
 
 * Enjoy Solarized color scheme on Facebook.
 
-*Keep default `Dark Mode` of Facebook turned on for best results.*
+*Default `Dark Mode` of Facebook must be kept Turned ON. (Account -> Display & Accessibility -> Dark mode -> [On])*
 
 Known Issues
 ------------
