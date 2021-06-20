@@ -69,11 +69,16 @@ rect:not([fill]) {
   --overlay-alpha-80: rgba(0, 43, 54, 0.8) !important;
   --popover-background: #002b36 !important;
   --primary-deemphasized-button-background: #001e25 !important;
-  /* --primary-text: #ffffff !important; */
+  --primary-text: #fdf6e3 !important;
+  --primary-icon: #fdf6e3 !important;
+  --placeholder-icon: #93a1a1 !important;
+  --placeholder-text: #93a1a1 !important;
   --scroll-thumb: #073642 !important;
   --secondary-button-background: #094554 !important;
-  /* --secondary-text: #eee8d5 !important; */
+  --secondary-icon: #eee8d5 !important;
+  --secondary-text: #eee8d5 !important;
   /* --shadow-1: #073642  !important; */
+  --placeholder-text: #93a1a1 !important;
   --shadow-2: #073642 !important;
   --shadow-inset: #002b36 !important;
   --surface-background: #073642 !important;
