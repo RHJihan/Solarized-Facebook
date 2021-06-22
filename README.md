@@ -1,7 +1,7 @@
 # Solarized Facebook
 You can apply **Solarized (dark) color scheme** on Facebook with this Extension.
 
-## Get it from from [Microsoft Edge Add-ons Store](https://microsoftedge.microsoft.com/addons/detail/efcmongnickjmdjpfnbdgmjinjglobci).
+## Get it from from [Add-ons for Firefox](https://addons.mozilla.org/en-US/firefox/addon/solarized-facebook/) or [Microsoft Edge Add-ons Store](https://microsoftedge.microsoft.com/addons/detail/efcmongnickjmdjpfnbdgmjinjglobci).
 
 ## Preview
 ![](https://i.imgur.com/qPmBknr.jpg)
