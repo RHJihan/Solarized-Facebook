@@ -68,7 +68,7 @@ rect:not([fill]) {
   --hover-overlay: rgba(85, 112, 122, 0.2) !important;
   --media-inner-border: rgba(253, 246, 227, 0.04) !important;
   --media-outer-border: #002b36 !important;
-  --messenger-card-background: #002b36 !important;
+  --messenger-card-background: #073642 !important;
   --messenger-reply-background: #586e75 !important;
   --overlay-alpha-80: rgba(0, 43, 54, 0.8) !important;
   --popover-background: #002b36 !important;
@@ -85,7 +85,6 @@ rect:not([fill]) {
   --placeholder-text: #93a1a1 !important;
   --shadow-2: #073642 !important;
   --shadow-inset: #002b36 !important;
-  --surface-background: #073642 !important;
   --wash: #094554 !important;
   --web-wash: #002b36 !important;
   --nav-bar-background: #073642 !important;
