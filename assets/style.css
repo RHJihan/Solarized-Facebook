@@ -57,6 +57,7 @@ rect:not([fill]) {
 } */
 
 :root:root, __fb-dark-mode:root, .__fb-dark-mode {
+  --chat-incoming-message-bubble-background-color: #1E4F5C !important;
   --comment-background: #094554 !important;
   --always-black: #001e25 !important;
   --card-background-flat: #002b36 !important;
